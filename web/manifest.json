@@ -1,0 +1,9 @@
+{
+  "name": "StockFlow Pro",
+  "short_name": "StockFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#07111F",
+  "theme_color": "#0F172A",
+  "description": "多店登入庫存叫貨系統 Flutter 版"
+}

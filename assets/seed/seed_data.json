@@ -1,0 +1,83 @@
+{
+  "accounts": [
+    {
+      "id": "acc-admin",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "displayName": "總部主帳號",
+      "storeCode": "HQ"
+    },
+    {
+      "id": "acc-tp01",
+      "username": "taipei01",
+      "password": "store123",
+      "role": "store",
+      "displayName": "台北一店",
+      "storeCode": "TP01"
+    },
+    {
+      "id": "acc-tc01",
+      "username": "taichung01",
+      "password": "store123",
+      "role": "store",
+      "displayName": "台中店",
+      "storeCode": "TC01"
+    },
+    {
+      "id": "acc-kh01",
+      "username": "kaohsiung01",
+      "password": "store123",
+      "role": "store",
+      "displayName": "高雄店",
+      "storeCode": "KH01"
+    }
+  ],
+  "items": [
+    {
+      "id": "item-001",
+      "sku": "DRK-001",
+      "name": "招牌紅茶",
+      "category": "飲品原料",
+      "unit": "箱",
+      "currentStock": 28,
+      "safetyStock": 18,
+      "leadTimeDays": 3,
+      "supplier": "北區原料供應中心"
+    },
+    {
+      "id": "item-002",
+      "sku": "MIL-002",
+      "name": "鮮奶基底",
+      "category": "冷藏原料",
+      "unit": "箱",
+      "currentStock": 12,
+      "safetyStock": 16,
+      "leadTimeDays": 2,
+      "supplier": "鮮配冷鏈物流"
+    },
+    {
+      "id": "item-003",
+      "sku": "CUP-003",
+      "name": "中杯紙杯",
+      "category": "包材",
+      "unit": "包",
+      "currentStock": 48,
+      "safetyStock": 25,
+      "leadTimeDays": 5,
+      "supplier": "商用包材整合商"
+    },
+    {
+      "id": "item-004",
+      "sku": "TOP-004",
+      "name": "珍珠配料",
+      "category": "配料",
+      "unit": "桶",
+      "currentStock": 9,
+      "safetyStock": 14,
+      "leadTimeDays": 2,
+      "supplier": "南區配料倉"
+    }
+  ],
+  "submissions": []
+}
