@@ -1,9 +1,0 @@
-{
-  "name": "stockflow-prototype",
-  "version": "0.1.0",
-  "private": true,
-  "description": "多店登入庫存叫貨系統測試版",
-  "scripts": {
-    "serve": "npx serve . -l 4173"
-  }
-}
