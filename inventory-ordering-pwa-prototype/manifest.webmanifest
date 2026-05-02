@@ -1,0 +1,17 @@
+{
+  "name": "StockFlow Pro 測試版",
+  "short_name": "StockFlow",
+  "description": "多店登入庫存叫貨系統測試版，主帳號可管理品項，分店可回報需求。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://www.genspark.ai/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
